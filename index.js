@@ -1,7 +1,7 @@
 var kittens= ["Milo","Otis","Garfield"]
 
 function destructivelyAppendKitten(name){
-name.push()
+array.push
 return array
 }
 
